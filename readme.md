@@ -16,5 +16,6 @@ A simple, lightweight URL shortener built with **Express.js** and **Node.js**, s
 ## ⚙️ Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/url-shortener-node.git
+   git clone https://github.com/ayushs206/url-shortener-node.git
    cd url-shortener-node
+
